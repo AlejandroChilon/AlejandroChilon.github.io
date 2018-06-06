@@ -1,0 +1,47 @@
+.p2 {
+    float: right;
+    line-height: 20px;
+}
+
+.p1 {
+    float: left;
+    line-height: 19px;
+}
+
+.heads {
+    background: #FFF;
+    width: 60%;
+    left: 0;
+    top: 0;
+    margin-left: 270px;
+    position: fixed;
+}
+
+body {
+    padding-top: 80px;
+}
+
+.table1 {
+    background-color: #808080;
+}
+
+.t {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tt {
+    background-color: #FFF;
+}
+
+.tgen {
+    padding: 10px;
+    border-left: 3pt dashed #808080;
+    border-right: 3pt dashed #808080;
+    margin: 0 auto;
+}
+
+td {
+    vertical-align: top;
+    border-radius: 5px;
+}
