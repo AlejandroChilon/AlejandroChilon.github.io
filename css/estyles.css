@@ -48,6 +48,10 @@ td {
     border-radius: 3px;
 }
 
+.fot {
+    width:800px
+}
+
 .vol {
     float: right;
     line-height: 20px;
