@@ -12,6 +12,5 @@ $(document).ready(function(){
 		} else {
 			$('.ir-arriba').slideUp(300);
 		}
-	});
- 
+	}); 
 });
