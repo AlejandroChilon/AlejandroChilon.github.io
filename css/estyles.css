@@ -53,6 +53,12 @@ footer {
     height:200px;
 }
 
-.vol {
-    float: right;
+.ir-arriba {
+	display:none;
+	padding:20px;
+	font-size:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
 }
