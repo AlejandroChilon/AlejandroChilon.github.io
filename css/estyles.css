@@ -47,3 +47,8 @@ td {
     vertical-align: top;
     border-radius: 3px;
 }
+
+.vol {
+    float: right;
+    line-height: 20px;
+}
