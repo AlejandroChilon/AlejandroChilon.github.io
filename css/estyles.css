@@ -48,18 +48,11 @@ td {
     border-radius: 3px;
 }
 
-.ir-arriba {
-	display:none;
-	padding:20px;
-	font-size:20px;
-	cursor:pointer;
-	position: fixed;
-	bottom:20px;
-	right:20px;
+footer {
+    width: 800px;
 }
 
 .vol {
-    width: 800px;
     text-align: right;
     position: fixed;
 }
