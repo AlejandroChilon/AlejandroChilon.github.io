@@ -57,3 +57,8 @@ td {
 	bottom:20px;
 	right:20px;
 }
+
+.vol {
+    width: 800px;
+    text-align: right;
+}
