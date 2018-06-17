@@ -1,0 +1,34 @@
+﻿header {
+    background: #3E72DD;
+}
+
+.color1 {
+    background: #3E72DD;
+}
+
+#azul {
+    color: blue;
+    font-weight: bold;
+}
+
+#h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+#menu{
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#menu li {
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px Verdana;
+}
+
+footer {
+    border-bottom: 5px solid #3E72DD;
+    text-align: center;
+}
