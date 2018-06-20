@@ -1,0 +1,17 @@
+.footer {
+    background: #e7e7e5;
+    color: #0c3d5e;
+    padding: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.orbit-container{
+    height: 450px;  
+}
+
+.orbit-slide-content{
+    position: absolute;
+    display: block;
+    top: 15px;
+    left: 40px;
+}
